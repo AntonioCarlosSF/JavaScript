@@ -6,6 +6,7 @@ async function chamarApi() {
         const obj =await resp.json();
         console.log(obj);
     }
-}
+} 
+// teste
 
 chamarApi()
